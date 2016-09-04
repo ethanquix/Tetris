@@ -1,6 +1,6 @@
-# Minishell
+# Tetris
 
-TCSH inspired shell made in C.
+Tetris clone made in C with ncurses library for the graphgic part.
 
 Featuring
 ----------
@@ -13,7 +13,7 @@ Featuring
 
 Installation
 ----------
-    git clone https://github.com/ethanquix/Minishell1.git
+    git clone git@github.com:ethanquix/Tetris.git
     cd Minishell1
     make re
 Usage
