@@ -1,6 +1,6 @@
 # Tetris
 
-Tetris clone made in C with ncurses library for the graphgic part.
+Tetris clone made in C with ncurses library for the graphic part.
 
 Featuring
 ----------
